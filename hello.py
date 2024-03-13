@@ -30,4 +30,4 @@ app.layout = html.Div(children=[
 ])
 ########### Run the app
 if __name__ == '__main__':
-    hello.run(debug=True, port=8000)
+    hello.run(debug=True, port=8080)
